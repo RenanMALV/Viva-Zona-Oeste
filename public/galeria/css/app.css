@@ -1,0 +1,16 @@
+.btn-primary {
+    color: #fff;
+    background-color: #2EC5B6;
+    border-color: #1aa294;
+}
+
+.btn-primary:hover{
+    background-color: #1aa294 !important;
+ } 
+
+ .form-control:hover {
+    border-color: #2EC5B6;
+ }
+ .form-control:focus {
+    border-color: #2EC5B6;
+ }
